@@ -46,7 +46,7 @@ if (e == f) {
 
 console.log('----------------------');
 
-const akys = 'raudonos';
+const akys = 'geltonos';
 
 if (akys === 'melynos') {
     console.log('Oj koks/kokia fainulka');
@@ -58,4 +58,14 @@ if (akys === 'melynos') {
     console.log('programeris 🥳🥳🥳');
 } else {
     console.log('Sorry, negaliu pagirti, nes nezinau tokios spalvos...');
+}
+
+console.log ('-----------------------------');
+
+const city = `Kaunas`;
+
+if (city === `Vilnius`) {
+    console.log(`Sveiki atvyke i Vilniu`);
+} else {
+    console.log(`Sveiki atvyke i nezinoma miesta`);
 }
